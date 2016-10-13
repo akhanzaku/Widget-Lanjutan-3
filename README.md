@@ -7,4 +7,4 @@ Created By :
 * School : SMK Telkom Malang
 
 ![Image of Null](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/Screenshot_2.jpg)
-![Image of Fill](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/Screenshot1.jpg)
+![Image of Null](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/screenshoot1.jpg)
