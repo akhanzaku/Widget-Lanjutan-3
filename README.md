@@ -6,5 +6,5 @@ Created By :
 * Class  : XIIRPL5 - 26
 * School : SMK Telkom Malang
 
-![Image of Null](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/Screenshot_2.jpg)
-![Image of Null](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/screenshoot1.jpg)
+![Image of Null](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/Screenshot_22.jpg)
+![Image of Null](https://github.com/ikaru19/Widget-Lanjutan-3/blob/master/Screenshot12.jpg)
